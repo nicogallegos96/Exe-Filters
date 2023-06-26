@@ -1,0 +1,16 @@
+//archivo de prueba
+//poner texto descriptivo
+
+//variable esUnNumero
+var esUnNumero = 5;
+var esOtroNumero = 3;
+
+function sumaDeNumeros(){
+    var resultadoDeSuma;
+
+    resultadoDeSuma = esUnNumero + esOtroNumero;
+    return resultadoDeSuma;
+}
+
+console.log(sumaDeNumeros());
+
