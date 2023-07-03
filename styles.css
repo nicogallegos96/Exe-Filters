@@ -1,0 +1,18 @@
+@import url("https://fonts.google.com/specimen/Mulish");
+
+*{
+    font-family: 'Mulish';
+}
+
+:root{
+    --primary: #ea4807;
+    --secondary: #f39525;
+}
+
+.banner{
+    background-color: var(--primary);
+}
+
+.articulo{
+    background-color: var(--secondary);
+}
